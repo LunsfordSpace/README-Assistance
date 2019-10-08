@@ -1,4 +1,4 @@
-#### For your own sake. Do not copy and paste this, breakdown the components and learn what each does, and what you want to use as your template.
+#### For your own sake. Do not copy and paste this! Breakdown the components and learn what each does, and pick what you want to use as your own template.
 
 ---
 
