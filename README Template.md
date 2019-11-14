@@ -1,52 +1,78 @@
-#### For your own sake. Do not copy and paste this! Breakdown the components and learn what each does, and pick what you want to use as your own template.
+## <center>|| <u>**README Assistance Project**</u> ||</center>
 
----
+<p align="center">
+    <!-- Project Avatar/Logo -->
+    <a href="https://github.com/LondresRi">
+        <img src="https://avatars1.githubusercontent.com/u/46427680?s=150&v=4">
+    </a>
+    <hr width="20%" />
+    <!-- GitHub Link -->
+    <p align="center">
+        <a href="https://github.com/LondresRi">
+            <strong>LondresRi</strong>
+        </a>
+    </p>
+    <!-- Project Shields -->
+    <p align="center">
+        <a href="https://github.com/LondresRi/README-Assistance/graphs/contributors">
+            <img src="https://img.shields.io/github/contributors/LondresRi/README-Assistance.svg?style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/LondresRi/README-Assistance/stargazers">
+            <img src="https://img.shields.io/github/stars/LondresRi/README-Assistance.svg?color=yellow&style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/LondresRi/README-Assistance/issues">
+            <img src="https://img.shields.io/github/issues/LondresRi/README-Assistance?style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/LondresRi/Best-README-Template/blob/master/LICENSE.txt">
+            <img src="https://img.shields.io/github/license/LondresRi/README-Assistance?color=orange&style=plastic">
+        </a>
+        ¨
+        <a href="https://linkedin.com/in/lunsfordsk">
+            <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
+        </a>
+    </p>    
+</p>
 
-### Preface
+##### <center>Initiated April 3rd, 2019. Updated October 17th, 2019.</center>
 
-ReadMe's can be one of the more tedious and forgotten parts of a project, but are vital for yourself, partner developers, and of course end users.
+<!-- Project Links -->
+<p align="center">
+    <a href="https://github.com/LondresRi/README-Assistance"><big>Project Docs</big></a> ·
+    <a href="https://github.com/LondresRi/README-Assistance/issues"><big>Report Bug</big></a> ·
+    <a href="https://github.com/LondresRi/README-Assistance/issues"><big>Request Feature</big></a>
+</p>
 
-They can be as simple or as creative as you want, so ReadMe's don't need to be a boring text page if you don't want them to be.
+------------------------------
 
-ReadMe's allow you to convey your thought process, and the full extent of usage for your project, as well as instructions for it. My suggestion is to start your ReadMe at the beginning of a project using a pre-made template (that you create yourself), and complete it as you go, with a final update once the project is complete.
+### <u>Table of Contents</u>
+* About the Project
+    * Description
+    * Specs
+    * Built With
+* Getting Started
+    * Prerequisites
+    * Installation
+* Auxiliary
+    * Contributors
+    * Contact
+    * License
+    * Acknowledgements
 
-The following template is designed to help you discover what you want in your ReadMe while providing the essential structure of it.
+------------------------------
 
-**Tip**: Most IDE's such as Atom or VisualStudioCode support CTRL + SHIFT + M to preview any .md file.
+## 🌐 About the Project
 
----
+### 📖 Description
+A README template and cheat sheet that allows developers to manage their project information all in one place, hopefully allowing them to create their own unique templates that showcase their logistical and creative talents.
 
-Please feel free to star and share the repository and follow me on GitHub! Better documentation everywhere means less headaches for all of us.
-
----
-
-**Tip**: You can go to your GitHub profile and right click your avatar to copy the link address so you can display your own logo.
-
-| ![alt text](https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LondresRi") |
-|:-----:|
-| [**LondresRi**](https://github.com/LondresRi) |
-
-
-## | <u>**Project Name**</u> |
-
-#### By Shawn Lunsford
-###### Initiated April 3rd, 2019. Updated April 3rd, 2019.
-
-----------
-
-## Description
-A README template that allows developers to manage their project information all in one place, hopefully allowing them to create their own unique templates that showcase their logistical and creative talents.
-
-## Known Bugs
-
-**Tip**: Always disclose the issues that your project has, for the sake of other developers as well as opensource transparency.
+### 🦠 Known Bugs
 
 * No known bugs.
-* Does not include finished projects for development students.
 
-## Specifications
-
-**Tip**: There are endless ways to structure your specs, and they can be as simple or as extensive as suits you.
+### 📋 Specs
 
 <details>
 <summary>User stories and specifications</summary>
@@ -103,154 +129,55 @@ A README template that allows developers to manage their project information all
 </table>
 </details>
 
-## Setup and Use
+### 🛠 Built With
+* [Mac OS X El Capitan 10.11.6](https://en.wikipedia.org/wiki/MacOS_Mojave)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Markdown](https://daringfireball.net/projects/markdown/)
 
-#### Prerequisites
+------------------------------
+
+## 🖥️ Setup and Use
+
+### 📚 Prerequisites
 * Understanding of Markdown and HTML languages
 * Option 1: [Atom](https://nodejs.org/en/)
 * Option 2: [VisualStudioCode](https://www.npmjs.com/)
 * [GitHub Account](https://github.com) (Optional)
 
-#### Download Repo
-1. Navigate to [LondresRi README repository](https://github.com/LondresRi/README-Assistance)
-2. Clone the repository: `$ git clone https://github.com/LondresRi/README-Assistance.git`
+### ⚙ Installation
+1. Navigate to [LondresRi README-Assistance repository](https://github.com/LondresRi/README-Assistance)
+2. Clone the repository: 
+`$ git clone https://github.com/LondresRi/README-Assistance.git`
 
-#### Use Responsibly
-1. Don't simply copy and paste.
-2. Breakdown into components to understand them.
-3. Utilize to create your own template that reflects your needs and style.
+------------------------------
 
-##### Examples of Other Setups
-[HairSalon Project](https://github.com/LondresRi/HairSalon.Solution)
-```
-## Setup and Use
+## Product Roadmap
 
-#### Prerequisites
-* .NET Core 1.1 SDK or higher
-* .NET Core Runtime 1.1 or higher
-* [Mono](https://www.mono-project.com/)
+Planned features:
+1. Feature
+2. Feature
 
-#### Download Repo
-1. Download required software: .NET Core SDK, .NET Core Runtime, Mono
-2. Clone [this repository](https://github.com/LondresRi/HairSalon.Solution): _$ git clone (repo HTTPS)_
+------------------------------
 
-#### Open Locally - Browser
-1. Navigate to the application directory: _$ cd HairSalon.Solution/HairSalon
-2. Execute the commands _$ dotnet restore_, _$ dotnet build_, and then _$ dotnet run_
-3. Open the localhost link provided in your preferred browser
-
-D:\user\HairSalon.Solution\HairSalon>dotnet restore
-D:\user\HairSalon.Solution\HairSalon>dotnet build
-D:\user\HairSalon.Solution\HairSalon>dotnet run
-Hosting environment: Production
-Content root path: D:\user\HairSalon.Solution\HairSalon
-Now listening on: http://localhost:5000
-Application started. Press Ctrl+C to shut down.
-
-
-#### Open Locally - Mono
-1. Navigate to the working directory: _$ cd HairSalon.Solution_
-2. Use your preferred IDE or editor to edit the project
-3. Open the Program.exe file or use _$ mono Program.exe_ to run application
-
-#### Compile Locally
-1. Navigate to the project directory: _$ cd HairSalon.Solution/HairSalon_
-2. Execute _$ mcs Program.cs Models/Database.cs Models/Client.cs Models/Stylist.cs Models/Specialty.cs_ to compile new Program.exe file
-
-#### MySql Database Import - Data Management
-1. Open your preferred database manager
-2. Import shawn_lunsford.sql
-3. Review database to ensure import was successful
-
-#### MySql Database Import - Testing (No Data)
-1. Open your preferred database manager
-2. Import shawn_lunsford_test.sql
-3. Review database to ensure import was successful
-
-#### MySql Database Recreation
-1. Open MySql in your preferred terminal, see [MySql Documentation](https://dev.mysql.com/doc/) for further instructions
-2. Execute commands _CREATE DATABASE hair_salon;_, and _USE hair_salon;_ to create and select the database
-3. Execute commands _mysql>CREATE TABLE stylists (id serial PRIMARY KEY, name VARCHAR(255), time VARCHAR(255), experience INT(11)), date VARCHAR(255);_, _mysql>CREATE TABLE clients (id serial PRIMARY KEY, name VARCHAR(255), number VARCHAR(20), time VARCHAR(255), stylist_id INT(11));_, and _mysql>CREATE TABLE specialties (id serial PRIMARY KEY, name VARCHAR(255), description VARCHAR(255));_
-4. Alternately, use preferred database manager for structuring and data input
-
-
-D:\user>mysql -u root -p
-Password: [Password]
-Welcome to the MySQL monitor.  Commands end with ; or \g.
-Your MySQL connection id is [Your connection id here]
-Server version: [Your server version and system here]
-
-Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
-
-Oracle is a registered trademark of Oracle Corporation and/or its
-affiliates. Other names may be trademarks of their respective
-owners.
-
-Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
-
-mysql>CREATE DATABASE hair_salon;
-Query OK, 1 row affected (0.00 sec)
-
-mysql>USE hair_salon;
-Database changed
-
-mysql>CREATE TABLE stylists (id serial PRIMARY KEY, name VARCHAR(255), time VARCHAR(255), experience INT(11)), date VARCHAR(255);
-Query OK, 0 row affected (0.00 sec)
-mysql>CREATE TABLE clients (id serial PRIMARY KEY, name VARCHAR(255), number VARCHAR(20), time VARCHAR(255), stylist_id INT(11));
-Query OK, 0 row affected (0.00 sec)
-mysql>CREATE TABLE specialties (id serial PRIMARY KEY, name VARCHAR(255), description VARCHAR(255));
-Query OK, 0 row affected (0.00 sec)
-
-
-#### Edit
-1. Navigate to the working directory: _$ cd HairSalon.Solution_
-2. Use your preferred IDE or editor to edit the project
-
-#### Test
-1. Navigate to the working directory: _$ cd HairSalon.Solution/HairSalon.Tests_
-2. Execute _$ dotnet tests_ to run application tests
-```
-
-
-## Built With
-
-* Mac OS X El Capitan 10.11.6
-* Atom (IDE)
-* HTML5
-* Markdown
-
-#### Examples of Other Built With's
-[HairSalon Project](https://github.com/LondresRi/HairSalon.Solution)
-```
-* Linux Ubuntu 18.04 bionic
-* Atom (IDE)
-* C#
-* HTML-5 / CSS-3
-* Bootstrap 4.0.0
-* Microsoft SDK
-* .NET Core 2.2
-* .AspNetCore
-* MySql
-* GitBash
-```
-
-## Contributors
-
-**Tip**: Make sure to include all contributors that were involved in the project. You can also include a credits portion to your README to breakdown who did what. See [eHappenings](https://github.com/LondresRi/EventPlanner.solution) and [Go'Leir - A Text RPG](https://github.com/LondresRi/rpg-game) projects for examples of this.
+## 🤝 Contributors
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| Shawn Lunsford | [LondresRi](https://github.com/LondresRi) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
+| [Shawn Lunsford](https://linkedin.com/in/lunsfordsk) | [LondresRi](https://github.com/LondresRi) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
 
-## Support and contact details
+------------------------------
 
-**Tip**: If there is a support structure besides contacting the developers, make sure to include that here.
+## ✉️ Contact and Support
 
 If you have any feedback or concerns, please contact one of the contributors.
 
-## License
+[Report Bug](https://github.com/LondresRi/README-Assistance/issues) ·
+[Request Feature](https://github.com/LondresRi/README-Assistance/issues)
 
-**Tip**: Always include a license with your project, by default a MIT License that supports our opensource development community.
+------------------------------
+
+## ⚖ License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2019 Shawn Lunsford. All Rights Reserved.
 ```
@@ -277,7 +204,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Acknowledgments
+------------------------------
+
+## 🌟 Acknowledgments
 
 #### [Epicodus](https://www.epicodus.com/)
 >"A school for tech careers... to help people learn the skills they need to get great jobs."
@@ -285,7 +214,3 @@ SOFTWARE.
 #### [The Internet](https://webfoundation.org/)
 > "...the first thing that humanity has built that humanity doesn't understand..."
 > - Eric Schmidt, Google (Alphabet Inc.)
-
-#### [Shawn](https://github.com/LondresRi)
-> "You're so cool right now."
-> - That one person, that one time
