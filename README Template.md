@@ -1,11 +1,11 @@
-## <center>|| <u>**README Assistance Project**</u> ||</center>
-
+<br>
+<center>|| <u><big>**README Assistance Project**</big></u> ||</center>
 <p align="center">
     <!-- Project Avatar/Logo -->
     <a href="https://github.com/LondresRi">
         <img src="https://avatars1.githubusercontent.com/u/46427680?s=150&v=4">
     </a>
-    <hr width="20%" />
+    <hr align="center" width="20%" />
     <!-- GitHub Link -->
     <p align="center">
         <a href="https://github.com/LondresRi">
@@ -36,7 +36,7 @@
     </p>    
 </p>
 
-##### <center>Initiated April 3rd, 2019. Updated October 17th, 2019.</center>
+<center><small>Initiated April 3rd, 2019. Updated November 19th, 2019.</small></center>
 
 <!-- Project Links -->
 <p align="center">
@@ -50,8 +50,12 @@
 ### <u>Table of Contents</u>
 * About the Project
     * Description
-    * Specs
+    * Known Bugs
     * Built With
+* Scope
+    * Minimal-Viable Product
+    * Product Roadmap
+    * Specs
 * Getting Started
     * Prerequisites
     * Installation
@@ -72,63 +76,6 @@ A README template and cheat sheet that allows developers to manage their project
 
 * No known bugs.
 
-### 📋 Specs
-
-<details>
-<summary>User stories and specifications</summary>
-<table>
-  <tr>
-    <th> Scenario 01 </th><th></th>
-  </tr>
-  <tr>
-    <td> Behavior </td>
-    <td>As a future employer, I want to be able to review quality projects, first by reading the README.</td>
-  </tr>
-  <tr>
-    <td> Input </td>
-    <td>Well-structured README</td>
-  </tr>
-  <tr>
-    <td> Output </td>
-    <td>Employment Opportunity</td>
-  </tr>
-  <tr>
-    <td> Notes </td>
-    <td>READMEs don't guarantee job offers, but they certainly don't hurt.</td>
-  </tr>
-  <tr>
-    <td> Completion </td>
-    <td>True</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th> Scenario 02 </th><th></th>
-  </tr>
-  <tr>
-    <td> Behavior </td>
-    <td>As a developer, I want to be able understand a project before I decide if I want to clone it.</td>
-  </tr>
-  <tr>
-    <td> Input </td>
-    <td>Clear README instructions</td>
-  </tr>
-  <tr>
-    <td> Output </td>
-    <td>Supporting the technical community</td>
-  </tr>
-  <tr>
-    <td> Notes </td>
-    <td>READMEs are important for yourself as a developer, but also for other developers in our highly connected community.</td>
-  </tr>
-  <tr>
-    <td> Completion </td>
-    <td>True</td>
-  </tr>
-</table>
-</details>
-
 ### 🛠 Built With
 * [Mac OS X El Capitan 10.11.6](https://en.wikipedia.org/wiki/MacOS_Mojave)
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -137,26 +84,90 @@ A README template and cheat sheet that allows developers to manage their project
 
 ------------------------------
 
-## 🖥️ Setup and Use
+## 🔭 Scope
 
-### 📚 Prerequisites
+### Use Case
+Users are primiarily developers who are struggling with README creation and updating. The difficulty of managing a useful README with clear planning has led to increased stress during project development which affects their capabilities, and also results in missed opportunities.
+
+### Minimal-Viable Product
+* MVP Feature Here (Complete)
+* MVP Feature Here
+
+### Product Roadmap
+* Feature Here (Complete)
+* Feature Here
+
+### Specs
+
+<details>
+  <summary>User stories and specifications</summary>
+  <table>
+    <tr>
+      <th> Scenario 01 </th><th></th>
+    </tr>
+    <tr>
+      <td> Behavior </td>
+      <td>As a future employer, I want to be able to review quality projects, first by reading the README.</td>
+    </tr>
+    <tr>
+      <td> Input </td>
+      <td>Well-structured README</td>
+    </tr>
+    <tr>
+      <td> Output </td>
+      <td>Employment Opportunity</td>
+    </tr>
+    <tr>
+      <td> Notes </td>
+      <td>READMEs don't guarantee job offers, but they certainly don't hurt.</td>
+    </tr>
+    <tr>
+      <td> Completion </td>
+      <td>True</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <th> Scenario 02 </th><th></th>
+    </tr>
+    <tr>
+      <td> Behavior </td>
+      <td>As a developer, I want to be able understand a project before I decide if I want to clone it.</td>
+    </tr>
+    <tr>
+      <td> Input </td>
+      <td>Clear README instructions</td>
+    </tr>
+    <tr>
+      <td> Output </td>
+      <td>Supporting the technical community</td>
+    </tr>
+    <tr>
+      <td> Notes </td>
+      <td>READMEs are important for yourself as a developer, but also for other developers in our highly connected community.</td>
+    </tr>
+    <tr>
+      <td> Completion </td>
+      <td>True</td>
+    </tr>
+  </table>
+</details>
+
+------------------------------
+
+## ⚙ Setup and Use
+
+### Prerequisites
 * Understanding of Markdown and HTML languages
 * Option 1: [Atom](https://nodejs.org/en/)
 * Option 2: [VisualStudioCode](https://www.npmjs.com/)
 * [GitHub Account](https://github.com) (Optional)
 
-### ⚙ Installation
+### Installation
 1. Navigate to [LondresRi README-Assistance repository](https://github.com/LondresRi/README-Assistance)
 2. Clone the repository: 
 `$ git clone https://github.com/LondresRi/README-Assistance.git`
-
-------------------------------
-
-## Product Roadmap
-
-Planned features:
-1. Feature
-2. Feature
 
 ------------------------------
 
@@ -172,8 +183,10 @@ Planned features:
 
 If you have any feedback or concerns, please contact one of the contributors.
 
-[Report Bug](https://github.com/LondresRi/README-Assistance/issues) ·
-[Request Feature](https://github.com/LondresRi/README-Assistance/issues)
+<p align="center">
+    <a href="https://github.com/LondresRi/README-Assistance/issues">Report Bug</a> ·
+    <a href="https://github.com/LondresRi/README-Assistance/issues">Request Feature</a>
+</p>
 
 ------------------------------
 
