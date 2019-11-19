@@ -96,7 +96,7 @@ A README template and cheat sheet that allows developers to manage their project
 ### Use Case
 Users are primiarily developers who are struggling with README creation and updating. The difficulty of managing a useful README with clear planning has led to increased stress during project development which affects their capabilities, and also results in missed opportunities.
 
-### Minimal-Viable Product
+### Minimum-Viable Product
 * MVP Feature Here (Complete)
 * MVP Feature Here
 
