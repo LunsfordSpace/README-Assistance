@@ -1,11 +1,16 @@
 <br>
-<center>|| <u><big>**README Assistance Project**</big></u> ||</center>
+<p align="center">
+  <u><big>|| <b>README Assistance Project</b> ||</big></u>
+</p>
 <p align="center">
     <!-- Project Avatar/Logo -->
+    <br>
     <a href="https://github.com/LondresRi">
         <img src="https://avatars1.githubusercontent.com/u/46427680?s=150&v=4">
     </a>
-    <hr align="center" width="20%" />
+    <p align="center">
+      ___________________________
+    </p>
     <!-- GitHub Link -->
     <p align="center">
         <a href="https://github.com/LondresRi">
@@ -36,7 +41,9 @@
     </p>    
 </p>
 
-<center><small>Initiated April 3rd, 2019. Updated November 19th, 2019.</small></center>
+<p align="center">
+  <small>Initiated April 3rd, 2019. Updated November 19th, 2019.</small>
+</p>
 
 <!-- Project Links -->
 <p align="center">
