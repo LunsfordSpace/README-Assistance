@@ -173,8 +173,7 @@ Users are primiarily developers who are struggling with README creation and upda
 
 ### Installation
 1. Navigate to [LondresRi README-Assistance repository](https://github.com/LondresRi/README-Assistance)
-2. Clone the repository: 
-`$ git clone https://github.com/LondresRi/README-Assistance.git`
+2. Clone the repository: `$ git clone https://github.com/LondresRi/README-Assistance.git`
 
 ------------------------------
 
