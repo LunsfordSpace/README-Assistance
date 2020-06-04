@@ -111,7 +111,7 @@ Users are primiarily developers who are struggling with ReadMe creation and upda
   <summary>User stories and specifications</summary>
 
   <h4>User Story 1</h4>
-  "As a college student with a car, I want to be able to locate local pizza restaurants so that I can offer delivery services for extra income."
+  <p>"As a college student with a car, I want to be able to locate local pizza restaurants so that I can offer delivery services for extra income."</p>
   <table>
     <tr>
       <td> BDD 1-A </td>
@@ -423,6 +423,8 @@ Users are primiarily developers who are struggling with ReadMe creation and upda
 | should correctly throw an error if API call if API key is invalid (mock API used) | failed request | 'Uncaught (in promise)' |
 | should correctly locate closest pizza restaurant based on geo-coordinates | 47.6062° N, 122.3321° W | 1403 3rd ave, Seattle, WA |
 | should correctly return message when no nearby pizza restaurants | -49.8379825° N, -12.0697756° W | 'There are no restaurants within 20 miles! | -->
+
+<center><small><a href="#specs">Return to Top of Specs</a></small></center>
 
 </details>
 
