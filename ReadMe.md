@@ -110,11 +110,11 @@ If you have any feedback or concerns, please contact one of the contributors.
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2019 Shawn Lunsford. All Rights Reserved.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2020 Shawn Lunsford. All Rights Reserved.
 ```
 MIT License
 
-Copyright (c) 2019 Shawn Lunsford.
+Copyright (c) 2020 Shawn Lunsford.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
