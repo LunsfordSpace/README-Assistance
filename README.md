@@ -5,16 +5,16 @@
 ## | <u>**README Assistance Project**</u> |
 
 #### By Shawn Lunsford
-###### Initiated April 3rd, 2019.
+###### Initiated April 3rd, 2019. Updated June 4th, 2020.
 
 ----------
 
 ## Description
-A README template and cheat sheet that allows developers to manage their project information all in one place, hopefully allowing them to create their own unique templates that showcase their logistical and creative talents.
+An assistance guide for ReadMe creation for developers to build their own documentation for managing project information. Better documentation not only promotes our open source community through better understanding and ease of access, but expands the marketability of a given project and its developers.
 
 ## Known Bugs
 
-* No known bugs.
+* No known bugs at this time.
 
 ## Specifications
 
