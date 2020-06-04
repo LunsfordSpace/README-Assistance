@@ -476,9 +476,9 @@ Users are primiarily developers who are struggling with ReadMe creation and upda
 
 #### Interactive Development Environment
 
-  To view or edit the document which may include some HTML code, you will need an IDE or text editor. The popular open-source choices for an IDE are Atom and VisualStudio Code.
+  To view or edit the document which may include some HTML code, you will need an code editor or text editor. The popular open-source choices for an code editor are Atom and VisualStudio Code.
 
-  1) IDE Download:
+  1) Code Editor Download:
      * Option 1: [Atom](https://nodejs.org/en/)
      * Option 2: [VisualStudio Code](https://www.npmjs.com/)
   2) Click the download most applicable to your OS and system.
@@ -495,7 +495,7 @@ Users are primiarily developers who are struggling with ReadMe creation and upda
   4) Clone the repository to your desktop: `$ git clone https://github.com/LondresRi/ReadMe-Assistance.git`
   5) Run the command `cd ReadMe-Assistance` to enter into the project directory.
   6) View or Edit:
-      * IDE - Run the command `atom .` or `code .` to open the project in Atom or VisualStudio Code respectively for review and editing.
+      * Code Editor - Run the command `atom .` or `code .` to open the project in Atom or VisualStudio Code respectively for review and editing.
       * Text Editor - Open by double clicking on any of the files to open in a text editor.
 
   #### Download

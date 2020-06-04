@@ -94,7 +94,7 @@ An assistance guide for ReadMe creation for developers to build their own docume
 ## Built With
 
 * Mac OS X El Capitan 10.11.6
-* Atom (IDE)
+* Atom (Code Editor)
 * HTML5
 * Markdown
 
