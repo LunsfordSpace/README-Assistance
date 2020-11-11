@@ -1,114 +1,156 @@
-| ![alt text](https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LondresRi") |
-|:-----:|
-| [**LondresRi**](https://github.com/LondresRi) |
+<br>
+<p align="center">
+  <u><big>||&emsp;<b><u>ReadMe Assistance Project</u></b>&emsp;||</big></u>
+</p>
+<p align="center">
+    <!-- Project Avatar/Logo -->
+    <br>
+    <a href="https://github.com/LondresRi">
+        <img style="border-radius: 100%" src="https://avatars1.githubusercontent.com/u/46427680?s=150&v=4">
+    </a>
+    <p align="center">
+      ___________________________
+    </p>
+    <!-- GitHub Link -->
+    <p align="center">
+        <a href="https://github.com/LondresRi">
+            <strong>LondresRi</strong>
+        </a>
+    </p>
+    <!-- Project Shields -->
+    <p align="center">
+        <a href="https://github.com/LondresRi/README-Assistance/graphs/contributors">
+            <img src="https://img.shields.io/github/contributors/LondresRi/README-Assistance.svg?style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/LondresRi/README-Assistance/stargazers">
+            <img src="https://img.shields.io/github/stars/LondresRi/README-Assistance.svg?color=yellow&style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/LondresRi/README-Assistance/issues">
+            <img src="https://img.shields.io/github/issues/LondresRi/README-Assistance?style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/LondresRi/Best-ReadMe-Template/blob/master/LICENSE.txt">
+            <img src="https://img.shields.io/github/license/LondresRi/README-Assistance?color=orange&style=plastic">
+        </a>
+        ¨
+        <a href="https://linkedin.com/in/lunsfordsk">
+            <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
+        </a>
+    </p>    
+</p>
 
-## | <u>**ReadMe Assistance Project**</u> |
+<p align="center">
+  <small>Initiated April 3rd, 2019. Updated November 11th, 2020.</small>
+  <br>
+  <small>By Shawn Lunsford</small>
+</p>
 
-#### By Shawn Lunsford
-###### Initiated April 3rd, 2019. Updated June 4th, 2020.
+<!-- Project Links -->
+<p align="center">
+    <a href="https://github.com/LondresRi/README-Assistance"><big>Project Docs</big></a> ·
+    <a href="https://github.com/LondresRi/README-Assistance/issues"><big>Report Bug</big></a> ·
+    <a href="https://github.com/LondresRi/README-Assistance/issues"><big>Request Feature</big></a>
+</p>
 
-----------
+------------------------------
+### <u>Table of Contents</u>
+* <a href="#🌐-about-the-project">About the Project</a>
+    * <a href="#📖-description">Description</a>
+    * <a href="#🦠-known-bugs">Known Bugs</a>
+    * <a href="#🛠-built-with">Built With</a>
+* <a href="#🏁-getting-started">Getting Started</a>
+    * <a href="#📋-prerequisites">Prerequisites</a>
+    * <a href="#⚙️-setup-and-use">Setup and Use</a>
+* <a href="#🤝-contributors">Auxiliary</a>
+    * <a href="#🤝-contributors">Contributors</a>
+    * <a href="#✉️-contact-and-support">Contact</a>
+    * <a href="#⚖️-license">License</a>
+    * <a href="#🌟-acknowledgements">Acknowledgements</a>
+    
+------------------------------
 
-## Description
-An assistance guide for ReadMe creation for developers to build their own documentation for managing project information. Better documentation not only promotes our open source community through better understanding and ease of access, but expands the marketability of a given project and its developers.
+## 🌐 About the Project
 
-## Known Bugs
+### 📖 Description
+&emsp;An assistance guide for ReadMe creation for developers to build their own documentation for managing project information. Better documentation not only promotes our open source community through better understanding and ease of access, but expands the marketability of a given project and its developers.
 
-* No known bugs at this time.
+### 🦠 Known Bugs
 
-## Specifications
+* None known yet. <a href="https://github.com/LondresRi/README-Assistance/issues">Please report if you discover any.</a>
 
-<details>
-  <summary>User stories and specifications</summary>
-  <table>
-    <tr>
-      <th> Scenario 01 </th><th></th>
-    </tr>
-    <tr>
-      <td> Behavior </td>
-      <td>As a future employer, I want to be able to review quality projects first by reading the ReadMe so that I can evaluate a developer's documentation skills.</td>
-    </tr>
-    <tr>
-      <td> Input </td>
-      <td>Well-structured ReadMe</td>
-    </tr>
-    <tr>
-      <td> Output </td>
-      <td>Employment Opportunity</td>
-    </tr>
-    <tr>
-      <td> Notes </td>
-      <td>ReadMes don't guarantee job offers, but they certainly don't hurt.</td>
-    </tr>
-    <tr>
-      <td> Completion </td>
-      <td>True</td>
-    </tr>
-  </table>
+### 🛠 Built With
+* [Ubuntu 18.04.5 LTS](https://releases.ubuntu.com/18.04/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [HTML5](https://html.com/html5/)
+* [Markdown](https://daringfireball.net/projects/markdown/)
 
-  <table>
-    <tr>
-      <th> Scenario 02 </th><th></th>
-    </tr>
-    <tr>
-      <td> Behavior </td>
-      <td>As a developer, I want to be able understand a project by reading a ReadMe so I can decide if I want to clone it.</td>
-    </tr>
-    <tr>
-      <td> Input </td>
-      <td>Clear ReadMe instructions</td>
-    </tr>
-    <tr>
-      <td> Output </td>
-      <td>Supporting the technical community</td>
-    </tr>
-    <tr>
-      <td> Notes </td>
-      <td>ReadMes are important for yourself as a developer, but also for other developers in our highly connected community.</td>
-    </tr>
-    <tr>
-      <td> Completion </td>
-      <td>True</td>
-    </tr>
-  </table>
-</details>
+------------------------------
 
-## Setup and Use
+## 🏁 Getting Started
 
-#### Prerequisites
-* Understanding of Markdown and HTML languages
-* Option 1: [Atom](https://nodejs.org/en/)
-* Option 2: [VisualStudioCode](https://www.npmjs.com/)
-* [GitHub Account](https://github.com) (Optional)
+### 📋 Prerequisites
 
-#### Download Repo
-1. Navigate to [LondresRi ReadMe-Assistance repository](https://github.com/LondresRi/ReadMe-Assistance)
-2. Clone the repository: 
-`$ git clone https://github.com/LondresRi/ReadMe-Assistance.git`
+### Interactive Development Environment
 
-#### Use Responsibly
-1. Don't simply copy and paste.
-2. Breakdown into components to understand them.
-3. Utilize to create your own template that reflects your needs and style.
+  &emsp;To view or edit the document which may include some HTML code, you will need an code editor or text editor. The popular open-source choices for an code editor are Atom and VisualStudio Code.
 
-## Built With
+  1) Code Editor Download:
+     * Option 1: [Atom](https://nodejs.org/en/)
+     * Option 2: [VisualStudio Code](https://www.npmjs.com/)
+  2) Click the download most applicable to your OS and system.
+  3) Wait for download to complete, then install -- Windows will run the setup exe and macOS will drag and drop into applications.
+  4) Optionally, create a [GitHub Account](https://github.com)
 
-* Mac OS X El Capitan 10.11.6
-* Atom (Code Editor)
-* HTML5
-* Markdown
+### ⚙️ Setup and Use
 
-## Contributors
+  #### Cloning
+
+  1) Navigate to the [LondresRi README-Assistance repository here](https://github.com/LondresRi/README-Assistance).
+  2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
+  3) Open up your system Terminal or GitBash, navigate to your desktop with the command: `cd Desktop`, or whichever location suits you best.
+  4) Clone the repository to your desktop: `$ git clone https://github.com/LondresRi/README-Assistance.git`
+  5) Run the command `cd README-Assistance` to enter into the project directory.
+  6) View or Edit:
+      * Code Editor - Run the command `atom .` or `code .` to open the project in Atom or VisualStudio Code respectively for review and editing.
+      * Text Editor - Open by double clicking on any of the files to open in a text editor.
+
+  #### Download
+
+  1) Navigate to the [LondresRi README-Assistance repository here](https://github.com/LondresRi/README-Assistance).
+  2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
+  3) Click 'Download ZIP' and extract the directory to whichever location suits you best.
+  4) Open by double clicking on any of the files to open in a text editor.
+
+  #### Usage
+  **Use Responsibly**
+  1) Don't simply copy and paste.
+  2) Breakdown into components to understand them.
+  3) Utilize to create your own template that reflects your needs and style.
+
+------------------------------
+
+### 🤝 Contributors
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| Shawn Lunsford | [LondresRi](https://github.com/LondresRi) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
+| [Shawn Lunsford](https://linkedin.com/in/lunsfordsk) | [LondresRi](https://github.com/LondresRi) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
 
-## Support and contact details
+------------------------------
+
+### ✉️ Contact and Support
 
 If you have any feedback or concerns, please contact one of the contributors.
 
-## License
+<p>
+    <a href="https://github.com/LondresRi/README-Assistance/issues">Report Bug</a> ·
+    <a href="https://github.com/LondresRi/README-Assistance/issues">Request Feature</a>
+</p>
+
+------------------------------
+
+### ⚖️ License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2020 Shawn Lunsford. All Rights Reserved.
 ```
@@ -135,7 +177,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Acknowledgments
+------------------------------
+
+### 🌟 Acknowledgments
 
 #### [Epicodus](https://www.epicodus.com/)
 >"A school for tech careers... to help people learn the skills they need to get great jobs."
@@ -147,3 +191,8 @@ SOFTWARE.
 #### [Shawn](https://github.com/LondresRi)
 > "You're so cool right now."
 > - That one person, that one time
+
+
+------------------------------
+
+<center><a href="#">Return to Top</a></center>
