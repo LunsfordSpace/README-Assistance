@@ -1,4 +1,4 @@
-Most editors support CTRL + SHIFT + M to preview any .md file.
+Many editors support CTRL + SHIFT + M to preview any .md file.
 
 ### Font / Header Sizing Using '#'
 ```
