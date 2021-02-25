@@ -5,7 +5,7 @@
 <p align="center">
     <!-- Project Avatar/Logo -->
     <br>
-    <a href="https://github.com/LondresRi">
+    <a href="https://github.com/LunsfordSK">
         <img style="border-radius: 100%" src="https://avatars1.githubusercontent.com/u/46427680?s=150&v=4">
     </a>
     <p align="center">
@@ -13,26 +13,26 @@
     </p>
     <!-- GitHub Link -->
     <p align="center">
-        <a href="https://github.com/LondresRi">
-            <strong>LondresRi</strong>
+        <a href="https://github.com/LunsfordSK">
+            <strong>LunsfordSK</strong>
         </a>
     </p>
     <!-- Project Shields -->
     <p align="center">
-        <a href="https://github.com/LondresRi/TODOREPONAME/graphs/contributors">
-            <img src="https://img.shields.io/github/contributors/LondresRi/TODOREPONAME.svg?style=plastic">
+        <a href="https://github.com/LunsfordSK/TODOREPONAME/graphs/contributors">
+            <img src="https://img.shields.io/github/contributors/LunsfordSK/TODOREPONAME.svg?style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/TODOREPONAME/stargazers">
-            <img src="https://img.shields.io/github/stars/LondresRi/TODOREPONAME.svg?color=yellow&style=plastic">
+        <a href="https://github.com/LunsfordSK/TODOREPONAME/stargazers">
+            <img src="https://img.shields.io/github/stars/LunsfordSK/TODOREPONAME.svg?color=yellow&style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/TODOREPONAME/issues">
-            <img src="https://img.shields.io/github/issues/LondresRi/TODOREPONAME?style=plastic">
+        <a href="https://github.com/LunsfordSK/TODOREPONAME/issues">
+            <img src="https://img.shields.io/github/issues/LunsfordSK/TODOREPONAME?style=plastic">
         </a>
         ¨
-        <a href="https://github.com/LondresRi/Best-ReadMe-Template/blob/master/LICENSE.txt">
-            <img src="https://img.shields.io/github/license/LondresRi/TODOREPONAME?color=orange&style=plastic">
+        <a href="https://github.com/LunsfordSK/Best-ReadMe-Template/blob/master/LICENSE.txt">
+            <img src="https://img.shields.io/github/license/LunsfordSK/TODOREPONAME?color=orange&style=plastic">
         </a>
         ¨
         <a href="https://linkedin.com/in/lunsfordsk">
@@ -49,9 +49,9 @@
 
 <!-- Project Links -->
 <p align="center">
-    <a href="https://github.com/LondresRi/TODOREPONAME"><big>Project Docs</big></a> ·
-    <a href="https://github.com/LondresRi/TODOREPONAME/issues"><big>Report Bug</big></a> ·
-    <a href="https://github.com/LondresRi/TODOREPONAME/issues"><big>Request Feature</big></a>
+    <a href="https://github.com/LunsfordSK/TODOREPONAME"><big>Project Docs</big></a> ·
+    <a href="https://github.com/LunsfordSK/TODOREPONAME/issues"><big>Report Bug</big></a> ·
+    <a href="https://github.com/LunsfordSK/TODOREPONAME/issues"><big>Request Feature</big></a>
 </p>
 
 ------------------------------
@@ -80,7 +80,7 @@
 
 ### 🦠 Known Bugs
 
-* None known yet. <a href="https://github.com/LondresRi/TODOREPONAME/issues">Please report if you discover any.</a>
+* None known yet. <a href="https://github.com/LunsfordSK/TODOREPONAME/issues">Please report if you discover any.</a>
 
 ### 🛠 Built With
 * [Ubuntu 18.04.5 LTS](https://releases.ubuntu.com/18.04/)
@@ -203,10 +203,10 @@
 
   #### Cloning
 
-  1) Navigate to the [LondresRi TODOREPONAME repository here](https://github.com/LondresRi/TODOREPONAME).
+  1) Navigate to the [LunsfordSK TODOREPONAME repository here](https://github.com/LunsfordSK/TODOREPONAME).
   2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Open up your system Terminal or GitBash, navigate to your desktop with the command: `cd Desktop`, or whichever location suits you best.
-  4) Clone the repository to your desktop: `$ git clone https://github.com/LondresRi/TODOREPONAME.git`
+  4) Clone the repository to your desktop: `$ git clone https://github.com/LunsfordSK/TODOREPONAME.git`
   5) Run the command `cd TODOREPONAME` to enter into the project directory.
   6) View or Edit:
       * Code Editor - Run the command `atom .` or `code .` to open the project in Atom or VisualStudio Code respectively for review and editing.
@@ -214,7 +214,7 @@
 
   #### Download
 
-  1) Navigate to the [LondresRi TODOREPONAME repository here](https://github.com/LondresRi/TODOREPONAME).
+  1) Navigate to the [LunsfordSK TODOREPONAME repository here](https://github.com/LunsfordSK/TODOREPONAME).
   2) Click 'Clone or download' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Click 'Download ZIP' and extract the directory to whichever location suits you best.
   4) Open by double clicking on any of the files to open in a text editor.
@@ -230,7 +230,7 @@
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| [Shawn Lunsford](https://linkedin.com/in/lunsfordsk) | [LondresRi](https://github.com/LondresRi) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
+| [Shawn Lunsford](https://linkedin.com/in/lunsfordsk) | [LunsfordSK](https://github.com/LunsfordSK) |  [lunsford.sk@gmail.com](mailto:lunsford.sk@gmail.com) |
 
 ------------------------------
 
@@ -239,19 +239,20 @@
 If you have any feedback or concerns, please contact one of the contributors.
 
 <p>
-    <a href="https://github.com/LondresRi/TODOREPONAME/issues">Report Bug</a> ·
-    <a href="https://github.com/LondresRi/TODOREPONAME/issues">Request Feature</a>
+    <a href="https://github.com/LunsfordSK/TODOREPONAME/issues">Report Bug</a> ·
+    <a href="https://github.com/LunsfordSK/TODOREPONAME/issues">Request Feature</a>
 </p>
 
 ------------------------------
 
 ### ⚖️ License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2020 Shawn Lunsford. All Rights Reserved.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2021 Shawn Lunsford. All Rights Reserved.
+
 ```
 MIT License
 
-Copyright (c) 2020 Shawn Lunsford.
+Copyright (c) 2021 Shawn Lunsford.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

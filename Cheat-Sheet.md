@@ -39,28 +39,28 @@ _Italics_ or *Italics*,
 ### Images
 ```
 Inline
-![alt text](https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LondresRi")
+![alt text](https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LunsfordSK")
 
 Reference
 ![alt text](img_logo)
-[img_logo]: https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LondresRi"
+[img_logo]: https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LunsfordSK"
 
 HTML
-<img src="https://avatars1.githubusercontent.com/u/46427680?s=100&v=4" width=100 alt="GitHub avatar for author LondresRi">
+<img src="https://avatars1.githubusercontent.com/u/46427680?s=100&v=4" width=100 alt="GitHub avatar for author LunsfordSK">
 ```
 
 Inline :
-![alt text](https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LondresRi")
+![alt text](https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LunsfordSK")
 
 Reference :
 ![alt text][img_logo]
-[img_logo]: https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LondresRi"
+[img_logo]: https://avatars1.githubusercontent.com/u/46427680?s=100&v=4 "GitHub avatar for author LunsfordSK"
 
 HTML :
-<img src="https://avatars1.githubusercontent.com/u/46427680?s=100&v=4" alt="GitHub avatar for author LondresRi">
+<img src="https://avatars1.githubusercontent.com/u/46427680?s=100&v=4" alt="GitHub avatar for author LunsfordSK">
 
 HTML (Alt text demo) :
-<img src="" alt="GitHub avatar for author LondresRi">
+<img src="" alt="GitHub avatar for author LunsfordSK">
 
 ---
 
